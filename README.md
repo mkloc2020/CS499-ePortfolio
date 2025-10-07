@@ -18,7 +18,7 @@ These enhancements directly align with my career goal of becoming a data analyst
 
 ---
 
-### Journals
+## Journals
 
 [Journal: What Makes a Productive Code Review?](CS499/CS499-M1-1_Paper.pdf "Journal: Self-Introduction")
 
@@ -34,7 +34,7 @@ The three categories include the following:
 
 This journal serves as a reflection on my experience throughout the CS499 Computer Science Capstone course. It highlights how I achieved the five course outcomes by refining and enhancing the artifacts featured in my ePortfolio. The result is a professional portfolio that effectively demonstrates the knowledge, skills, and competencies I have developed throughout the Computer Science program.
 
-### Code Review
+## Code Review
 
 [Code Review](https://www.dailymotion.com/video/x9rt22q "CS499 Code Review Video")
 
@@ -64,7 +64,7 @@ This Milestone log for Category Three includes my enhancement for databases. I c
 
 ---
 
-### Professional Self-Assessment
+## Professional Self-Assessment
 
 Finishing the Computer Science program at Southern New Hampshire University and building my ePortfolio for the CS499 Capstone has helped me see how much I’ve grown as a student and future professional. Throughout my classes, I’ve learned a lot about programming, database management, and how to solve real problems using technology. Putting my projects together for the ePortfolio gave me the chance to show the skills I’ve developed and how they connect to my career goals.
 
