@@ -42,19 +42,19 @@ This code review details my plan for my selected artifact, Travlr Getaways, rela
 
 ### Category One: Software Design and Engineering Enhancement
 
-[Category One: Software Design and Engineering](CS499-ePortfolio/Milestone Logs/Milestone Two.docx "Software Design and Engineering - Angular Components and Routing Logic")
+[Category One: Software Design and Engineering](https://github.com/mkloc2020/CS499-ePortfolio/blob/main/Milestone%20Logs/Milestone%20Two.docx)
 
 This Milestone log for Category One includes my enhancement for software engineering and design. I completed the implementation of a fully functional edit button which shows that I can debug and modify complex Angular components and routing logic. This update helped improved the user experience and added an important feature that supports real-world software development practices.
 
 ### Category Two: Algorithms and Data Structure Enhancement
 
-[Category Two: Algorithms and Data Structure Narrative](CS499/CS499-M4-2_Paper.pdf "Algorithms and Data Structure - Arrays and Filtering Logic")
+[Category Two: Algorithms and Data Structure](https://github.com/mkloc2020/CS499-ePortfolio/blob/main/Milestone%20Logs/Milestone%20Three.docx)
 
 This Milestone log for Category Two includes my enhancement for algorithms and data structure. This enhancement shows how I can use arrays and filtering logic to make both the functionality and the user experience better. I added a search bar that allows users to filter trips by name or resort, a maximum price filter that limits results by budget, and an empty state message that appears when no trips match the search or filter. These improvements required me to write filtering algorithms that check both text and numeric conditions at the same time, which shows my ability to apply algorithmic thinking to real-world problems.
 
 ### Category Three: Databases Enhancement
 
-[Category Three: Databases](CS499/CS499-M5-2_Paper.pdf "Databases - Trip Schema")</br>
+[Category Three: Databases](https://github.com/mkloc2020/CS499-ePortfolio/blob/main/Milestone%20Logs/Milestone%20Four.docx)</br>
 
 This Milestone log for Category Three includes my enhancement for databases. I chose to make changes to the Trip Schema. This is located in travlr.js which is part of the back-end database design. This schema outlines the structure of all the trip data stored in MongoDB which have fields like code, name, resort, price, and description.
 
