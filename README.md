@@ -42,7 +42,7 @@ This code review details my plan for my selected artifact, Travlr Getaways, rela
 
 ### Category One: Software Design and Engineering Enhancement
 
-[Category One: Software Design and Engineering](CS499/CS499-M3-2_Paper.pdf "Software Design and Engineering - Angular Components and Routing Logic")
+[Category One: Software Design and Engineering](Milestone Logs/Milestone Two.docx)
 
 This Milestone log for Category One includes my enhancement for software engineering and design. I completed the implementation of a fully functional edit button which shows that I can debug and modify complex Angular components and routing logic. This update helped improved the user experience and added an important feature that supports real-world software development practices.
 
