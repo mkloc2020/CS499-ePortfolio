@@ -60,3 +60,19 @@ This Milestone log for Category Three includes my enhancement for databases. I c
 
 
 ---
+
+### Professional Self-Assessment
+
+Finishing the Computer Science program at Southern New Hampshire University and building my ePortfolio for the CS499 Capstone has helped me see how much I’ve grown as a student and future professional. Throughout my classes, I’ve learned a lot about programming, database management, and how to solve real problems using technology. Putting my projects together for the ePortfolio gave me the chance to show the skills I’ve developed and how they connect to my career goals.
+
+During the program, I discovered that I really enjoy working with data and finding ways to make information more useful for people. I learned how to design databases, use CRUD operations, and build applications that connect to those systems. These projects helped me understand how to organize data and make it easier for users to interact with. I also got better at planning and improving my code so it’s easier to update and reuse later on.
+
+Working with others was another important part of the program. Some assignments involved teamwork, which taught me how to share ideas, listen to others, and combine different strengths to get the job done. Communicating with classmates and explaining technical ideas in simple terms helped me get more comfortable with working in group settings, something that’s very important in the tech field.
+
+I also learned how to communicate better with different types of people, including those who might not have a background in technology. In several projects, I had to explain my designs or present data in ways that made sense to everyone involved. This skill will be very useful in my future career, especially when sharing results or explaining data to company leaders or clients.
+
+The program also helped me grow in key areas like data structures and algorithms, software design, databases, and security. I learned how to write clean and efficient code, design programs using modular methods, build reliable databases, and protect systems from security risks. These lessons gave me a stronger understanding of how technology works together and how to build safe, effective software.
+
+The projects in my ePortfolio highlight these skills and show how far I’ve come. Each artifact represents something I learned and improved on, from problem-solving to creating working software systems. Together, they show that I can handle challenges, keep learning, and produce quality work.
+
+Overall, the Computer Science program and the Capstone course helped me find direction in my career and strengthened my confidence in my abilities. I’m now ready to take what I’ve learned and apply it to a professional role, especially in data analysis. My ePortfolio is a reflection of my hard work, my progress, and my readiness to start a successful career in the computer science field.
