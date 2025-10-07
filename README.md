@@ -36,7 +36,7 @@ This journal serves as a reflection on my experience throughout the CS499 Comput
 
 ### Code Review
 
-[Code Review](https://youtu.be/Ct7p3I_X9U0?rel=0 "CS499 Code Review Video")
+[Code Review](https://www.dailymotion.com/video/x9rt22q "CS499 Code Review Video")
 
 This code review details my plan for my selected artifact, Travlr Getaways, related to the three key computer science categories of software engineering and design, algorithms and data structure, and databases. Showcasing my existing code for weaknesses, limitations, and vulnerabilities and an explanation of my plan for enhancements.
 
