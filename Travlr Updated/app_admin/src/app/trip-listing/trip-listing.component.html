@@ -1,0 +1,30 @@
+<div class="container">
+  <h2>Available Trips</h2>
+
+  <!-- Search and filter controls -->
+  <div class="mb-3">
+    <input 
+      type="text" 
+      class="form-control mb-2" 
+      placeholder="Search by name or resort..." 
+      [(ngModel)]="searchTerm" />
+
+    <input 
+      type="number" 
+      class="form-control" 
+      placeholder="Max price (USD)" 
+      [(ngModel)]="maxPrice" />
+  </div>
+
+  <!-- Trip cards -->
+  <div class="row">
+    <div class="col-md-4 mb-3" *ngFor="let trip of filteredTrips">
+      <app-trip-card [trip]="trip"></app-trip-card>
+    </div>
+  </div>
+
+  <!-- Empty state -->
+  <div *ngIf="filteredTrips.length === 0" class="alert alert-warning mt-3">
+    No trips match your search or filter criteria.
+  </div>
+</div>
