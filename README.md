@@ -18,7 +18,7 @@ These enhancements directly align with my career goal of becoming a data analyst
 
 ---
 
-## Journals
+## Journal
 
 [Journal: What Makes a Productive Code Review?](CS499/CS499-M1-1_Paper.pdf "Journal: Self-Introduction")
 
@@ -29,10 +29,6 @@ The three categories include the following:
 - Software design/engineering
 - Algorithms and data structures
 - Databases
-
-[Journal: Capstone Reflection](CS499/CS499-M7-1_Paper.pdf "Journal: Capstone Reflection")
-
-This journal serves as a reflection on my experience throughout the CS499 Computer Science Capstone course. It highlights how I achieved the five course outcomes by refining and enhancing the artifacts featured in my ePortfolio. The result is a professional portfolio that effectively demonstrates the knowledge, skills, and competencies I have developed throughout the Computer Science program.
 
 ## Code Review
 
