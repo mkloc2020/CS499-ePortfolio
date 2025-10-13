@@ -39,24 +39,21 @@ This code review details my plan for my selected artifact, Travlr Getaways, rela
 
 ## Narratives
 
-### Category One: Software Design and Engineering Enhancement
+These projects come from the Travlr Getaways app which I built last semester in CS-465 Full Stack Development I. I ended up choosing this as my sole artifact because I can showcase all three categories with just this one project. Software engineering and design, algorithms and data structures, and databases. It shows that I can design, build, and improve real software and at the same time keep everything connected between the front end, back end, and database.
 
 [Category One: Software Design and Engineering](https://github.com/mkloc2020/CS499-ePortfolio/blob/main/Milestone%20Two.docx)
 
-This Milestone log for Category One includes my enhancement for software engineering and design. I completed the implementation of a fully functional edit button which shows that I can debug and modify complex Angular components and routing logic. This update helped improved the user experience and added an important feature that supports real-world software development practices.
+For Category One I improved the TripCardComponent which shows details of the trip like name, resort, price, and description. In my initial project the edit button was non functional. The only thing it did was log to the console. I fixed this by adding navigation with Angular’s Router. Now when someone selects Edit on the webpage it takes them to the Edit Trip page instead of nothing. This update helped improve the user experience and added an important feature. I solidified my knowledge on how routing and components work together and how small changes in the design can make a big difference for the user. 
 
-### Category Two: Algorithms and Data Structure Enhancement
 
 [Category Two: Algorithms and Data Structure](https://github.com/mkloc2020/CS499-ePortfolio/blob/main/Milestone%20Three.docx)
 
-This Milestone log for Category Two includes my enhancement for algorithms and data structure. This enhancement shows how I can use arrays and filtering logic to make both the functionality and the user experience better. I added a search bar that allows users to filter trips by name or resort, a maximum price filter that limits results by budget, and an empty state message that appears when no trips match the search or filter. These improvements required me to write filtering algorithms that check both text and numeric conditions at the same time, which shows my ability to apply algorithmic thinking to real-world problems.
+For Category Two I enhanced the Trip Listing Component. Before it only listed all trips without any kind of organization or filters. I added search and filter options which lets you look up trips by name, price or resort. I had to write logic that checks and compares values in arrays. This taught me more about loops, conditions, and working with different data types. This update made the app more interactive and efficient, which shows my ability to apply algorithmic thinking to real-world problems.
 
-### Category Three: Databases Enhancement
 
 [Category Three: Databases](https://github.com/mkloc2020/CS499-ePortfolio/blob/main/Milestone%20Four.docx)</br>
 
-This Milestone log for Category Three includes my enhancement for databases. I chose to make changes to the Trip Schema. This is located in travlr.js which is part of the back-end database design. This schema outlines the structure of all the trip data stored in MongoDB which have fields like code, name, resort, price, and description.
-
+For Category Three I improved travler.js which defines how trip data is stored in MongoDB. The original version didn’t have good validation, this means bad data can get through. I fixed this by adding a few rules. Now the trip codes are unique, prices have to be positive, and start dates have to occur on a future date. I also changed the perPerson field from a string to a number so that prices could be compared and sorted. After making that change I updated the front end to match which kept the formatting the same. These improvements made the database better and more reliable and I learned how little updates can make a big difference in data quality.
 
 ---
 
