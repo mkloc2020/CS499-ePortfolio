@@ -20,7 +20,7 @@ These enhancements directly align with my career goal of becoming a data analyst
 
 ## Journal
 
-[Journal: What Makes a Productive Code Review?](CS499/CS499-M1-1_Paper.pdf "Journal: Self-Introduction")
+[Journal: What Makes a Productive Code Review?](https://github.com/mkloc2020/CS499-ePortfolio/blob/main/Journal%201.docx)
 
 This journal is the pre-planning stage of my code review. It includes planning for writing a script for my code review for each of the three categories that will be reviewed based on the rubric and the code review checklist.
 
