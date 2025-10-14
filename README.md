@@ -10,7 +10,7 @@
 
 After completing my Computer Science degree and building my ePortfolio for the CS499 Capstone I can see how much I’ve grown compared to day one. Throughout my classes I’ve learned a lot about programming, database management, and how to solve problems. Revising the Travlr Getaways project to showcase my abilities in this ePortfolio gave me the chance to show the skills I’ve developed and how they connect to my career goals.
 
-In the past two years I discovered that I enjoy working with data and finding ways to make information more useful for people. I learned how to design databases, use CRUD operations, and build applications that connect to those systems. These projects helped me understand how to organize data and make it easier for users to understand what I see. 
+Throughout my educational development I discovered that I enjoy working with data and finding ways to make information more useful for people. I learned how to design databases, use CRUD operations, and build applications that connect to those systems. These projects helped me understand how to organize data and make it easier for users to understand what I see. 
 
 I also learned how important communication is because not everyone will understand data the way I do. In several projects I had to explain my designs or present data in ways that made sense to everyone involved. This skill will help me in the future with my career especially when sharing results or explaining data to company leaders or clients.
 
