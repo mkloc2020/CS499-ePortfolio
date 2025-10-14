@@ -33,7 +33,7 @@ This code review details my plan for my selected artifact, Travlr Getaways, rela
 
 ## Narratives
 
-Travlr Getaways is a full stack application that utilizes programming language frameworks. It was built in my previous semester while taking the course CS-465 Full Stack Development I. I ended up choosing this as my sole artifact because I can showcase all three categories with just this one project. This project included developing a database as well as the code that interfaces the application to the database. The app features an admin-only section that allows adminstrative users to manage customers, travel packages, and prices. It was developed using the MEAN stack, which includes MongoDB, Express, Angular, and Node.js. 
+Travlr Getaways is a full stack application that utilizes programming language frameworks. It was built in my previous semester while taking the course CS-465 Full Stack Development I. I ended up choosing this as my sole artifact because I can showcase all three categories with just this one project. This project included developing a database as well as the code that interfaces the application to the database. The app features an admin-only section that allows adminstrative users to manage customers, travel packages, and prices which was developed using the MEAN stack (MongoDB, Express, Angular, and Node.js). 
 
 
 [Category One: Software Design and Engineering](https://github.com/mkloc2020/CS499-ePortfolio/blob/main/Milestone%20Two.docx)
