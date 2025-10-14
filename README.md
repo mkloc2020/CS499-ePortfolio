@@ -8,13 +8,18 @@
 
 ## Overview
 
-This repository documents my process of developing my ePortfolio as part of the CS499 Computer Science Capstone course. The purpose of this ePortfolio is to showcase my skills, growth, and experience throughout the Computer Science program at Southern New Hampshire University. I began the program at the end of 2023 after completing my associate degree at my local community college.
+After completing my Computer Science degree and building my ePortfolio for the CS499 Capstone I can see how much I’ve grown compared to day one. Throughout my classes I’ve learned a lot about programming, database management, and how to solve problems. Revising the Travlr Getaways project to showcase my abilities in this ePortfolio gave me the chance to show the skills I’ve developed and how they connect to my career goals.
 
-Throughout my time in the program, I have gained valuable experience in database design and management, learning to apply CRUD operations and connect databases to applications. I have also strengthened my programming abilities in both Python and Java—languages I had limited experience with before entering SNHU. Additionally, I have developed a strong understanding of software development principles such as modular design, problem-solving, and testing.
+In the past two years I discovered that I enjoy working with data and finding ways to make information more useful for people. I learned how to design databases, use CRUD operations, and build applications that connect to those systems. These projects helped me understand how to organize data and make it easier for users to understand what I see. 
 
-The artifacts included in this portfolio demonstrate my ability to meet the program’s key outcomes. They highlight my problem-solving skills through improved database searches and enhanced dashboard functionality, my software design and development skills through the use of modular programming and code reusability, and my data analysis and visualization skills through refined dashboards that display meaningful insights to users.
+I also learned how important communication is because not everyone will understand data the way I do. In several projects I had to explain my designs or present data in ways that made sense to everyone involved. This skill will help me in the future with my career especially when sharing results or explaining data to company leaders or clients.
 
-These enhancements directly align with my career goal of becoming a data analyst. The ability to manage and analyze data, build applications that interact with datasets, and communicate findings through visualizations are all essential skills in this field. This specialization strengthens my expertise in both the technical and analytical aspects of computer science, preparing me for a successful career in data-driven industries such as retail and healthcare.
+The Computer Science program also helped me grow in areas like data structures and algorithms, software design, databases, and security. I learned how to better write and structure my code, design programs using modular methods, build reliable databases, and protect systems from security risks. This gave me a stronger understanding of how technology works together and how to build software.
+
+The projects in my ePortfolio highlight these skills and show how far I’ve come. Each category represents something I learned and improved on from problem-solving to creating working software systems. When viewed together they show that I can handle challenges, keep learning, and create sound solutions.
+
+The Computer Science program and the Capstone course helped me solidify my stance in my career and strengthened my confidence in my abilities. I’m now ready to take what I’ve learned and apply it professionally.
+
 
 ---
 
