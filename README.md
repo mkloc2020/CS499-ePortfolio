@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository documents my projects that were enhanced as part of the CS499 Computer Science Capstone course. This ePortfolio showcases my skills, experience, and growth through my academic journey. The projects shown in my portfolio show how I meet program’s key outcomes. They focus on my problem-solving skills by improved database querying and enhanced dashboard functionality, my software design and development skills through the use of modular programming and code reusability, and my data analysis and visualization skills through refined dashboards.
+This repository documents my projects that were enhanced as part of the CS499 Computer Science Capstone course. This ePortfolio showcases my skills, experience, and growth through my academic journey. The projects shown in my portfolio show how I meet the program’s key outcomes. They focus on my problem-solving skills by improved database querying and enhanced dashboard functionality, my software design and development skills through the use of modular programming and code reusability, and my data analysis and visualization skills through refined dashboards.
 
 ---
 
